@@ -10,4 +10,4 @@
 
 # link [Horiseon] (/file:///Users/aaronwhitney/Desktop/Modular-1-assignment/Develop/index.html)
 
-# screenshot ![alt text]("/iCloudDrive/Desktop/Modular-1-assignment/Develop/assets/images/screenshot.png")
+![horiseon-pic](https://user-images.githubusercontent.com/85328844/125543544-eb302ee2-b289-4925-ad07-71ec2862dacc.JPG)
